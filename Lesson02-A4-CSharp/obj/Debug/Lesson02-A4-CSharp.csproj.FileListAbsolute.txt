@@ -1,0 +1,14 @@
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A3-CSharp\Lesson02-A3-CSharp\bin\Debug\Lesson02-A3-CSharp.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A3-CSharp\Lesson02-A3-CSharp\obj\Debug\Lesson02-A3-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A3-CSharp\Lesson02-A3-CSharp\obj\Debug\Lesson02-A3-CSharp.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02_A4_CSharp.CSVForm.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02_A4_CSharp.Form1.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02_A4_CSharp.Form2.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02_A3_CSharp.Properties.Resources.resources
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02-A4-CSharp.csproj.GenerateResource.Cache
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\bin\Debug\Lesson02-A3-CSharp.exe.config
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\bin\Debug\Lesson02-A3-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\bin\Debug\Lesson02-A3-CSharp.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02-A3-CSharp.exe
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02-A3-CSharp.pdb
+C:\Users\me\Documents\Visual Studio 2015\Projects\Lesson02-A4-CSharp\Lesson02-A4-CSharp\obj\Debug\Lesson02-A4-CSharp.csprojResolveAssemblyReference.cache
